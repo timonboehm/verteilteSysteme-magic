@@ -1,0 +1,6 @@
+---
+applications:
+- name: Broker
+  memory: 1024M
+  host: fabiansHase
+  domain: cfapps.io
